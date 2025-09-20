@@ -1,0 +1,1221 @@
+{
+  "$schema": "vscode://schemas/icon-theme",
+  "iconDefinitions": {
+    ".babel.config.js": {
+      "iconPath": "../icons/sakura/.babel.config.js.svg"
+    },
+    ".babelrc": {
+      "iconPath": "../icons/sakura/.babelrc.svg"
+    },
+    ".babelrc.js": {
+      "iconPath": "../icons/sakura/.babelrc.js.svg"
+    },
+    ".commitlintrc": {
+      "iconPath": "../icons/sakura/.commitlintrc.svg"
+    },
+    ".editorconfig": {
+      "iconPath": "../icons/sakura/.editorconfig.svg"
+    },
+    ".env.development": {
+      "iconPath": "../icons/sakura/.env.development.svg"
+    },
+    ".env.local": {
+      "iconPath": "../icons/sakura/.env.local.svg"
+    },
+    ".env.production": {
+      "iconPath": "../icons/sakura/.env.production.svg"
+    },
+    ".env.test": {
+      "iconPath": "../icons/sakura/.env.test.svg"
+    },
+    ".eslintcache": {
+      "iconPath": "../icons/sakura/.eslintcache.svg"
+    },
+    ".eslintrc.cjs": {
+      "iconPath": "../icons/sakura/.eslintrc.cjs.svg"
+    },
+    ".eslintrc.js": {
+      "iconPath": "../icons/sakura/.eslintrc.js.svg"
+    },
+    ".gitattributes": {
+      "iconPath": "../icons/sakura/.gitattributes.svg"
+    },
+    ".gitmodules": {
+      "iconPath": "../icons/sakura/.gitmodules.svg"
+    },
+    ".n": {
+      "iconPath": "../icons/sakura/.n.svg"
+    },
+    ".npmrc.cjs": {
+      "iconPath": "../icons/sakura/.npmrc.cjs.svg"
+    },
+    ".nvmrc": {
+      "iconPath": "../icons/sakura/.nvmrc.svg"
+    },
+    ".prettierignore": {
+      "iconPath": "../icons/sakura/.prettierignore.svg"
+    },
+    ".prettierrc.cjs": {
+      "iconPath": "../icons/sakura/.prettierrc.cjs.svg"
+    },
+    ".stylelintrc": {
+      "iconPath": "../icons/sakura/.stylelintrc.svg"
+    },
+    ".tool-versions": {
+      "iconPath": "../icons/sakura/.tool-versions.svg"
+    },
+    ".webpack.config.js": {
+      "iconPath": "../icons/sakura/.webpack.config.js.svg"
+    },
+    ".yarnrc.yml": {
+      "iconPath": "../icons/sakura/.yarnrc.yml.svg"
+    },
+    "Dockerfile": {
+      "iconPath": "../icons/sakura/Dockerfile.svg"
+    },
+    "Makefile": {
+      "iconPath": "../icons/sakura/Makefile.svg"
+    },
+    "asp": {
+      "iconPath": "../icons/sakura/asp.svg"
+    },
+    "bash": {
+      "iconPath": "../icons/sakura/bash.svg"
+    },
+    "browserslistrc": {
+      "iconPath": "../icons/sakura/browserslistrc.svg"
+    },
+    "c": {
+      "iconPath": "../icons/sakura/c.svg"
+    },
+    "cc": {
+      "iconPath": "../icons/sakura/cc.svg"
+    },
+    "cfg": {
+      "iconPath": "../icons/sakura/cfg.svg"
+    },
+    "cmd": {
+      "iconPath": "../icons/sakura/cmd.svg"
+    },
+    "conf": {
+      "iconPath": "../icons/sakura/conf.svg"
+    },
+    "config": {
+      "iconPath": "../icons/sakura/config.svg"
+    },
+    "cpp": {
+      "iconPath": "../icons/sakura/cpp.svg"
+    },
+    "cs": {
+      "iconPath": "../icons/sakura/cs.svg"
+    },
+    "css": {
+      "iconPath": "../icons/sakura/css.svg"
+    },
+    "csv": {
+      "iconPath": "../icons/sakura/csv.svg"
+    },
+    "csx": {
+      "iconPath": "../icons/sakura/csx.svg"
+    },
+    "cxx": {
+      "iconPath": "../icons/sakura/cxx.svg"
+    },
+    "dart": {
+      "iconPath": "../icons/sakura/dart.svg"
+    },
+    "dockerignore": {
+      "iconPath": "../icons/sakura/dockerignore.svg"
+    },
+    "dotenv": {
+      "iconPath": "../icons/sakura/dotenv.svg"
+    },
+    "ejs": {
+      "iconPath": "../icons/sakura/ejs.svg"
+    },
+    "env": {
+      "iconPath": "../icons/sakura/env.svg"
+    },
+    "eslintignore": {
+      "iconPath": "../icons/sakura/eslintignore.svg"
+    },
+    "fish": {
+      "iconPath": "../icons/sakura/fish.svg"
+    },
+    "gem": {
+      "iconPath": "../icons/sakura/gem.svg"
+    },
+    "gitignore": {
+      "iconPath": "../icons/sakura/gitignore.svg"
+    },
+    "gitkeep": {
+      "iconPath": "../icons/sakura/gitkeep.svg"
+    },
+    "go": {
+      "iconPath": "../icons/sakura/go.svg"
+    },
+    "graphql": {
+      "iconPath": "../icons/sakura/graphql.svg"
+    },
+    "h": {
+      "iconPath": "../icons/sakura/h.svg"
+    },
+    "hh": {
+      "iconPath": "../icons/sakura/hh.svg"
+    },
+    "hpp": {
+      "iconPath": "../icons/sakura/hpp.svg"
+    },
+    "htm": {
+      "iconPath": "../icons/sakura/htm.svg"
+    },
+    "html": {
+      "iconPath": "../icons/sakura/html.svg"
+    },
+    "hxx": {
+      "iconPath": "../icons/sakura/hxx.svg"
+    },
+    "ini": {
+      "iconPath": "../icons/sakura/ini.svg"
+    },
+    "ipynb": {
+      "iconPath": "../icons/sakura/ipynb.svg"
+    },
+    "java": {
+      "iconPath": "../icons/sakura/java.svg"
+    },
+    "js": {
+      "iconPath": "../icons/sakura/js.svg"
+    },
+    "jsconfig": {
+      "iconPath": "../icons/sakura/jsconfig.svg"
+    },
+    "json": {
+      "iconPath": "../icons/sakura/json.svg"
+    },
+    "json5": {
+      "iconPath": "../icons/sakura/json5.svg"
+    },
+    "jsonc": {
+      "iconPath": "../icons/sakura/jsonc.svg"
+    },
+    "jsp": {
+      "iconPath": "../icons/sakura/jsp.svg"
+    },
+    "jsx": {
+      "iconPath": "../icons/sakura/jsx.svg"
+    },
+    "kt": {
+      "iconPath": "../icons/sakura/kt.svg"
+    },
+    "kts": {
+      "iconPath": "../icons/sakura/kts.svg"
+    },
+    "less": {
+      "iconPath": "../icons/sakura/less.svg"
+    },
+    "lock": {
+      "iconPath": "../icons/sakura/lock.svg"
+    },
+    "log": {
+      "iconPath": "../icons/sakura/log.svg"
+    },
+    "m": {
+      "iconPath": "../icons/sakura/m.svg"
+    },
+    "markdown": {
+      "iconPath": "../icons/sakura/markdown.svg"
+    },
+    "md": {
+      "iconPath": "../icons/sakura/md.svg"
+    },
+    "mdx": {
+      "iconPath": "../icons/sakura/mdx.svg"
+    },
+    "mm": {
+      "iconPath": "../icons/sakura/mm.svg"
+    },
+    "npmignore": {
+      "iconPath": "../icons/sakura/npmignore.svg"
+    },
+    "npmrc": {
+      "iconPath": "../icons/sakura/npmrc.svg"
+    },
+    "php": {
+      "iconPath": "../icons/sakura/php.svg"
+    },
+    "phtml": {
+      "iconPath": "../icons/sakura/phtml.svg"
+    },
+    "postcss": {
+      "iconPath": "../icons/sakura/postcss.svg"
+    },
+    "prettierrc": {
+      "iconPath": "../icons/sakura/prettierrc.svg"
+    },
+    "properties": {
+      "iconPath": "../icons/sakura/properties.svg"
+    },
+    "ps1": {
+      "iconPath": "../icons/sakura/ps1.svg"
+    },
+    "psd": {
+      "iconPath": "../icons/sakura/psd.svg"
+    },
+    "psm1": {
+      "iconPath": "../icons/sakura/psm1.svg"
+    },
+    "psql": {
+      "iconPath": "../icons/sakura/psql.svg"
+    },
+    "pug": {
+      "iconPath": "../icons/sakura/pug.svg"
+    },
+    "py": {
+      "iconPath": "../icons/sakura/py.svg"
+    },
+    "r": {
+      "iconPath": "../icons/sakura/r.svg"
+    },
+    "rb": {
+      "iconPath": "../icons/sakura/rb.svg"
+    },
+    "rs": {
+      "iconPath": "../icons/sakura/rs.svg"
+    },
+    "rst": {
+      "iconPath": "../icons/sakura/rst.svg"
+    },
+    "sass": {
+      "iconPath": "../icons/sakura/sass.svg"
+    },
+    "scss": {
+      "iconPath": "../icons/sakura/scss.svg"
+    },
+    "sh": {
+      "iconPath": "../icons/sakura/sh.svg"
+    },
+    "sql": {
+      "iconPath": "../icons/sakura/sql.svg"
+    },
+    "sqlite": {
+      "iconPath": "../icons/sakura/sqlite.svg"
+    },
+    "styl": {
+      "iconPath": "../icons/sakura/styl.svg"
+    },
+    "svelte": {
+      "iconPath": "../icons/sakura/svelte.svg"
+    },
+    "swift": {
+      "iconPath": "../icons/sakura/swift.svg"
+    },
+    "toml": {
+      "iconPath": "../icons/sakura/toml.svg"
+    },
+    "ts": {
+      "iconPath": "../icons/sakura/ts.svg"
+    },
+    "tsconfig": {
+      "iconPath": "../icons/sakura/tsconfig.svg"
+    },
+    "tsv": {
+      "iconPath": "../icons/sakura/tsv.svg"
+    },
+    "tsx": {
+      "iconPath": "../icons/sakura/tsx.svg"
+    },
+    "txt": {
+      "iconPath": "../icons/sakura/txt.svg"
+    },
+    "vue": {
+      "iconPath": "../icons/sakura/vue.svg"
+    },
+    "xml": {
+      "iconPath": "../icons/sakura/xml.svg"
+    },
+    "yaml": {
+      "iconPath": "../icons/sakura/yaml.svg"
+    },
+    "yarn.lock": {
+      "iconPath": "../icons/sakura/yarn.lock.svg"
+    },
+    "yml": {
+      "iconPath": "../icons/sakura/yml.svg"
+    },
+    "zsh": {
+      "iconPath": "../icons/sakura/zsh.svg"
+    },
+    ".changeset": {
+      "iconPath": "../icons/sakura/.changeset.svg"
+    },
+    ".github": {
+      "iconPath": "../icons/sakura/.github.svg"
+    },
+    ".gitlab": {
+      "iconPath": "../icons/sakura/.gitlab.svg"
+    },
+    ".husky": {
+      "iconPath": "../icons/sakura/.husky.svg"
+    },
+    ".storybook": {
+      "iconPath": "../icons/sakura/.storybook.svg"
+    },
+    ".turbo": {
+      "iconPath": "../icons/sakura/.turbo.svg"
+    },
+    ".vscode": {
+      "iconPath": "../icons/sakura/.vscode.svg"
+    },
+    "api": {
+      "iconPath": "../icons/sakura/api.svg"
+    },
+    "apps": {
+      "iconPath": "../icons/sakura/apps.svg"
+    },
+    "assets": {
+      "iconPath": "../icons/sakura/assets.svg"
+    },
+    "bin": {
+      "iconPath": "../icons/sakura/bin.svg"
+    },
+    "build": {
+      "iconPath": "../icons/sakura/build.svg"
+    },
+    "cli": {
+      "iconPath": "../icons/sakura/cli.svg"
+    },
+    "components": {
+      "iconPath": "../icons/sakura/components.svg"
+    },
+    "configurations": {
+      "iconPath": "../icons/sakura/configurations.svg"
+    },
+    "constants": {
+      "iconPath": "../icons/sakura/constants.svg"
+    },
+    "controllers": {
+      "iconPath": "../icons/sakura/controllers.svg"
+    },
+    "core": {
+      "iconPath": "../icons/sakura/core.svg"
+    },
+    "database": {
+      "iconPath": "../icons/sakura/database.svg"
+    },
+    "dist": {
+      "iconPath": "../icons/sakura/dist.svg"
+    },
+    "docs": {
+      "iconPath": "../icons/sakura/docs.svg"
+    },
+    "e2e": {
+      "iconPath": "../icons/sakura/e2e.svg"
+    },
+    "environments": {
+      "iconPath": "../icons/sakura/environments.svg"
+    },
+    "examples": {
+      "iconPath": "../icons/sakura/examples.svg"
+    },
+    "fixtures": {
+      "iconPath": "../icons/sakura/fixtures.svg"
+    },
+    "functions": {
+      "iconPath": "../icons/sakura/functions.svg"
+    },
+    "helpers": {
+      "iconPath": "../icons/sakura/helpers.svg"
+    },
+    "hooks": {
+      "iconPath": "../icons/sakura/hooks.svg"
+    },
+    "i18n": {
+      "iconPath": "../icons/sakura/i18n.svg"
+    },
+    "icons": {
+      "iconPath": "../icons/sakura/icons.svg"
+    },
+    "images": {
+      "iconPath": "../icons/sakura/images.svg"
+    },
+    "layouts": {
+      "iconPath": "../icons/sakura/layouts.svg"
+    },
+    "lib": {
+      "iconPath": "../icons/sakura/lib.svg"
+    },
+    "locales": {
+      "iconPath": "../icons/sakura/locales.svg"
+    },
+    "middleware": {
+      "iconPath": "../icons/sakura/middleware.svg"
+    },
+    "migrations": {
+      "iconPath": "../icons/sakura/migrations.svg"
+    },
+    "models": {
+      "iconPath": "../icons/sakura/models.svg"
+    },
+    "mutations": {
+      "iconPath": "../icons/sakura/mutations.svg"
+    },
+    "node_modules": {
+      "iconPath": "../icons/sakura/node_modules.svg"
+    },
+    "packages": {
+      "iconPath": "../icons/sakura/packages.svg"
+    },
+    "pages": {
+      "iconPath": "../icons/sakura/pages.svg"
+    },
+    "public": {
+      "iconPath": "../icons/sakura/public.svg"
+    },
+    "queries": {
+      "iconPath": "../icons/sakura/queries.svg"
+    },
+    "resolvers": {
+      "iconPath": "../icons/sakura/resolvers.svg"
+    },
+    "schemas": {
+      "iconPath": "../icons/sakura/schemas.svg"
+    },
+    "scripts": {
+      "iconPath": "../icons/sakura/scripts.svg"
+    },
+    "services": {
+      "iconPath": "../icons/sakura/services.svg"
+    },
+    "shared": {
+      "iconPath": "../icons/sakura/shared.svg"
+    },
+    "snapshots": {
+      "iconPath": "../icons/sakura/snapshots.svg"
+    },
+    "src": {
+      "iconPath": "../icons/sakura/src.svg"
+    },
+    "store": {
+      "iconPath": "../icons/sakura/store.svg"
+    },
+    "storybook": {
+      "iconPath": "../icons/sakura/storybook.svg"
+    },
+    "stubs": {
+      "iconPath": "../icons/sakura/stubs.svg"
+    },
+    "styles": {
+      "iconPath": "../icons/sakura/styles.svg"
+    },
+    "test": {
+      "iconPath": "../icons/sakura/test.svg"
+    },
+    "test-utils": {
+      "iconPath": "../icons/sakura/test-utils.svg"
+    },
+    "tests": {
+      "iconPath": "../icons/sakura/tests.svg"
+    },
+    "theme": {
+      "iconPath": "../icons/sakura/theme.svg"
+    },
+    "tools": {
+      "iconPath": "../icons/sakura/tools.svg"
+    },
+    "types": {
+      "iconPath": "../icons/sakura/types.svg"
+    },
+    "utils": {
+      "iconPath": "../icons/sakura/utils.svg"
+    },
+    "vendor": {
+      "iconPath": "../icons/sakura/vendor.svg"
+    },
+    "clojure": {
+      "iconPath": "../icons/sakura/clojure.svg"
+    },
+    "cmake": {
+      "iconPath": "../icons/sakura/cmake.svg"
+    },
+    "crystal": {
+      "iconPath": "../icons/sakura/crystal.svg"
+    },
+    "csharp": {
+      "iconPath": "../icons/sakura/csharp.svg"
+    },
+    "docker": {
+      "iconPath": "../icons/sakura/docker.svg"
+    },
+    "dotnet": {
+      "iconPath": "../icons/sakura/dotnet.svg"
+    },
+    "elixir": {
+      "iconPath": "../icons/sakura/elixir.svg"
+    },
+    "erlang": {
+      "iconPath": "../icons/sakura/erlang.svg"
+    },
+    "fsharp": {
+      "iconPath": "../icons/sakura/fsharp.svg"
+    },
+    "groovy": {
+      "iconPath": "../icons/sakura/groovy.svg"
+    },
+    "haskell": {
+      "iconPath": "../icons/sakura/haskell.svg"
+    },
+    "javascript": {
+      "iconPath": "../icons/sakura/javascript.svg"
+    },
+    "kotlin": {
+      "iconPath": "../icons/sakura/kotlin.svg"
+    },
+    "lua": {
+      "iconPath": "../icons/sakura/lua.svg"
+    },
+    "makefile": {
+      "iconPath": "../icons/sakura/makefile.svg"
+    },
+    "nim": {
+      "iconPath": "../icons/sakura/nim.svg"
+    },
+    "perl": {
+      "iconPath": "../icons/sakura/perl.svg"
+    },
+    "plaintext": {
+      "iconPath": "../icons/sakura/plaintext.svg"
+    },
+    "powershell": {
+      "iconPath": "../icons/sakura/powershell.svg"
+    },
+    "python": {
+      "iconPath": "../icons/sakura/python.svg"
+    },
+    "reason": {
+      "iconPath": "../icons/sakura/reason.svg"
+    },
+    "rescript": {
+      "iconPath": "../icons/sakura/rescript.svg"
+    },
+    "ruby": {
+      "iconPath": "../icons/sakura/ruby.svg"
+    },
+    "rust": {
+      "iconPath": "../icons/sakura/rust.svg"
+    },
+    "scala": {
+      "iconPath": "../icons/sakura/scala.svg"
+    },
+    "shellscript": {
+      "iconPath": "../icons/sakura/shellscript.svg"
+    },
+    "typescript": {
+      "iconPath": "../icons/sakura/typescript.svg"
+    },
+    "vb": {
+      "iconPath": "../icons/sakura/vb.svg"
+    },
+    "error": {
+      "iconPath": "../icons/sakura/error.svg"
+    },
+    "warning": {
+      "iconPath": "../icons/sakura/warning.svg"
+    },
+    "info": {
+      "iconPath": "../icons/sakura/info.svg"
+    },
+    "success": {
+      "iconPath": "../icons/sakura/success.svg"
+    },
+    "running": {
+      "iconPath": "../icons/sakura/running.svg"
+    },
+    "paused": {
+      "iconPath": "../icons/sakura/paused.svg"
+    },
+    "passed": {
+      "iconPath": "../icons/sakura/passed.svg"
+    },
+    "failed": {
+      "iconPath": "../icons/sakura/failed.svg"
+    },
+    "pending": {
+      "iconPath": "../icons/sakura/pending.svg"
+    },
+    "skipped": {
+      "iconPath": "../icons/sakura/skipped.svg"
+    },
+    "deprecated": {
+      "iconPath": "../icons/sakura/deprecated.svg"
+    },
+    "experimental": {
+      "iconPath": "../icons/sakura/experimental.svg"
+    },
+    "beta": {
+      "iconPath": "../icons/sakura/beta.svg"
+    },
+    "alpha": {
+      "iconPath": "../icons/sakura/alpha.svg"
+    },
+    "todo": {
+      "iconPath": "../icons/sakura/todo.svg"
+    },
+    "bisect": {
+      "iconPath": "../icons/sakura/bisect.svg"
+    },
+    "branch": {
+      "iconPath": "../icons/sakura/branch.svg"
+    },
+    "cherryPick": {
+      "iconPath": "../icons/sakura/cherryPick.svg"
+    },
+    "clone": {
+      "iconPath": "../icons/sakura/clone.svg"
+    },
+    "commit": {
+      "iconPath": "../icons/sakura/commit.svg"
+    },
+    "fetch": {
+      "iconPath": "../icons/sakura/fetch.svg"
+    },
+    "git": {
+      "iconPath": "../icons/sakura/git.svg"
+    },
+    "gitAdded": {
+      "iconPath": "../icons/sakura/gitAdded.svg"
+    },
+    "gitConflict": {
+      "iconPath": "../icons/sakura/gitConflict.svg"
+    },
+    "gitCopied": {
+      "iconPath": "../icons/sakura/gitCopied.svg"
+    },
+    "gitDeleted": {
+      "iconPath": "../icons/sakura/gitDeleted.svg"
+    },
+    "gitIgnored": {
+      "iconPath": "../icons/sakura/gitIgnored.svg"
+    },
+    "gitModified": {
+      "iconPath": "../icons/sakura/gitModified.svg"
+    },
+    "gitRenamed": {
+      "iconPath": "../icons/sakura/gitRenamed.svg"
+    },
+    "gitStaged": {
+      "iconPath": "../icons/sakura/gitStaged.svg"
+    },
+    "gitUnstaged": {
+      "iconPath": "../icons/sakura/gitUnstaged.svg"
+    },
+    "gitUntracked": {
+      "iconPath": "../icons/sakura/gitUntracked.svg"
+    },
+    "incomingChanges": {
+      "iconPath": "../icons/sakura/incomingChanges.svg"
+    },
+    "merge": {
+      "iconPath": "../icons/sakura/merge.svg"
+    },
+    "outgoingChanges": {
+      "iconPath": "../icons/sakura/outgoingChanges.svg"
+    },
+    "pullRequest": {
+      "iconPath": "../icons/sakura/pullRequest.svg"
+    },
+    "rebase": {
+      "iconPath": "../icons/sakura/rebase.svg"
+    },
+    "revert": {
+      "iconPath": "../icons/sakura/revert.svg"
+    },
+    "squash": {
+      "iconPath": "../icons/sakura/squash.svg"
+    },
+    "stash": {
+      "iconPath": "../icons/sakura/stash.svg"
+    },
+    "sync": {
+      "iconPath": "../icons/sakura/sync.svg"
+    },
+    "tag": {
+      "iconPath": "../icons/sakura/tag.svg"
+    },
+    "close": {
+      "iconPath": "../icons/sakura/close.svg"
+    },
+    "closeAll": {
+      "iconPath": "../icons/sakura/closeAll.svg"
+    },
+    "closeTerminal": {
+      "iconPath": "../icons/sakura/closeTerminal.svg"
+    },
+    "commentLine": {
+      "iconPath": "../icons/sakura/commentLine.svg"
+    },
+    "compareWithSaved": {
+      "iconPath": "../icons/sakura/compareWithSaved.svg"
+    },
+    "convertToArrowFunction": {
+      "iconPath": "../icons/sakura/convertToArrowFunction.svg"
+    },
+    "copy": {
+      "iconPath": "../icons/sakura/copy.svg"
+    },
+    "cut": {
+      "iconPath": "../icons/sakura/cut.svg"
+    },
+    "debugStart": {
+      "iconPath": "../icons/sakura/debugStart.svg"
+    },
+    "debugStepInto": {
+      "iconPath": "../icons/sakura/debugStepInto.svg"
+    },
+    "debugStepOut": {
+      "iconPath": "../icons/sakura/debugStepOut.svg"
+    },
+    "debugStepOver": {
+      "iconPath": "../icons/sakura/debugStepOver.svg"
+    },
+    "debugStop": {
+      "iconPath": "../icons/sakura/debugStop.svg"
+    },
+    "evaluateExpression": {
+      "iconPath": "../icons/sakura/evaluateExpression.svg"
+    },
+    "extractMethod": {
+      "iconPath": "../icons/sakura/extractMethod.svg"
+    },
+    "find": {
+      "iconPath": "../icons/sakura/find.svg"
+    },
+    "formatDocument": {
+      "iconPath": "../icons/sakura/formatDocument.svg"
+    },
+    "gitClone": {
+      "iconPath": "../icons/sakura/gitClone.svg"
+    },
+    "gitCommit": {
+      "iconPath": "../icons/sakura/gitCommit.svg"
+    },
+    "gitPull": {
+      "iconPath": "../icons/sakura/gitPull.svg"
+    },
+    "gitPush": {
+      "iconPath": "../icons/sakura/gitPush.svg"
+    },
+    "goToDefinition": {
+      "iconPath": "../icons/sakura/goToDefinition.svg"
+    },
+    "goToImplementation": {
+      "iconPath": "../icons/sakura/goToImplementation.svg"
+    },
+    "goToTypeDefinition": {
+      "iconPath": "../icons/sakura/goToTypeDefinition.svg"
+    },
+    "newFile": {
+      "iconPath": "../icons/sakura/newFile.svg"
+    },
+    "newFolder": {
+      "iconPath": "../icons/sakura/newFolder.svg"
+    },
+    "newTerminal": {
+      "iconPath": "../icons/sakura/newTerminal.svg"
+    },
+    "openFile": {
+      "iconPath": "../icons/sakura/openFile.svg"
+    },
+    "openTerminal": {
+      "iconPath": "../icons/sakura/openTerminal.svg"
+    },
+    "organizeImports": {
+      "iconPath": "../icons/sakura/organizeImports.svg"
+    },
+    "paste": {
+      "iconPath": "../icons/sakura/paste.svg"
+    },
+    "peekDefinition": {
+      "iconPath": "../icons/sakura/peekDefinition.svg"
+    },
+    "redo": {
+      "iconPath": "../icons/sakura/redo.svg"
+    },
+    "refactor": {
+      "iconPath": "../icons/sakura/refactor.svg"
+    },
+    "renameSymbol": {
+      "iconPath": "../icons/sakura/renameSymbol.svg"
+    },
+    "replace": {
+      "iconPath": "../icons/sakura/replace.svg"
+    },
+    "revealInExplorer": {
+      "iconPath": "../icons/sakura/revealInExplorer.svg"
+    },
+    "runBuildTask": {
+      "iconPath": "../icons/sakura/runBuildTask.svg"
+    },
+    "runExtension": {
+      "iconPath": "../icons/sakura/runExtension.svg"
+    },
+    "runTask": {
+      "iconPath": "../icons/sakura/runTask.svg"
+    },
+    "runTestTask": {
+      "iconPath": "../icons/sakura/runTestTask.svg"
+    },
+    "save": {
+      "iconPath": "../icons/sakura/save.svg"
+    },
+    "saveAll": {
+      "iconPath": "../icons/sakura/saveAll.svg"
+    },
+    "showReferences": {
+      "iconPath": "../icons/sakura/showReferences.svg"
+    },
+    "splitTerminal": {
+      "iconPath": "../icons/sakura/splitTerminal.svg"
+    },
+    "toggleBreakpoint": {
+      "iconPath": "../icons/sakura/toggleBreakpoint.svg"
+    },
+    "toggleComment": {
+      "iconPath": "../icons/sakura/toggleComment.svg"
+    },
+    "toggleDebug": {
+      "iconPath": "../icons/sakura/toggleDebug.svg"
+    },
+    "toggleExplorer": {
+      "iconPath": "../icons/sakura/toggleExplorer.svg"
+    },
+    "toggleExtensions": {
+      "iconPath": "../icons/sakura/toggleExtensions.svg"
+    },
+    "togglePanel": {
+      "iconPath": "../icons/sakura/togglePanel.svg"
+    },
+    "toggleSCM": {
+      "iconPath": "../icons/sakura/toggleSCM.svg"
+    },
+    "toggleSearch": {
+      "iconPath": "../icons/sakura/toggleSearch.svg"
+    },
+    "toggleSidebar": {
+      "iconPath": "../icons/sakura/toggleSidebar.svg"
+    },
+    "toggleTerminal": {
+      "iconPath": "../icons/sakura/toggleTerminal.svg"
+    },
+    "uncommentLine": {
+      "iconPath": "../icons/sakura/uncommentLine.svg"
+    },
+    "undo": {
+      "iconPath": "../icons/sakura/undo.svg"
+    },
+    "fileHome": {
+      "iconPath": "../icons/sakura/fileHome.svg"
+    },
+    "fileRoot": {
+      "iconPath": "../icons/sakura/fileRoot.svg"
+    },
+    "fileWorkspace": {
+      "iconPath": "../icons/sakura/fileWorkspace.svg"
+    },
+    "folderHome": {
+      "iconPath": "../icons/sakura/folderHome.svg"
+    },
+    "folderRoot": {
+      "iconPath": "../icons/sakura/folderRoot.svg"
+    },
+    "folderWorkspace": {
+      "iconPath": "../icons/sakura/folderWorkspace.svg"
+    },
+    "symbolBoolean": {
+      "iconPath": "../icons/sakura/symbolBoolean.svg"
+    },
+    "symbolClass": {
+      "iconPath": "../icons/sakura/symbolClass.svg"
+    },
+    "symbolConstant": {
+      "iconPath": "../icons/sakura/symbolConstant.svg"
+    },
+    "symbolEnum": {
+      "iconPath": "../icons/sakura/symbolEnum.svg"
+    },
+    "symbolEvent": {
+      "iconPath": "../icons/sakura/symbolEvent.svg"
+    },
+    "symbolFunction": {
+      "iconPath": "../icons/sakura/symbolFunction.svg"
+    },
+    "symbolInterface": {
+      "iconPath": "../icons/sakura/symbolInterface.svg"
+    },
+    "symbolMethod": {
+      "iconPath": "../icons/sakura/symbolMethod.svg"
+    },
+    "symbolModule": {
+      "iconPath": "../icons/sakura/symbolModule.svg"
+    },
+    "symbolNumber": {
+      "iconPath": "../icons/sakura/symbolNumber.svg"
+    },
+    "symbolProperty": {
+      "iconPath": "../icons/sakura/symbolProperty.svg"
+    },
+    "symbolString": {
+      "iconPath": "../icons/sakura/symbolString.svg"
+    },
+    "symbolVariable": {
+      "iconPath": "../icons/sakura/symbolVariable.svg"
+    }
+  },
+  "fileExtensions": {
+    ".babel.config.js": ".babel.config.js",
+    ".babelrc": ".babelrc",
+    ".babelrc.js": ".babelrc.js",
+    ".commitlintrc": ".commitlintrc",
+    ".editorconfig": ".editorconfig",
+    ".env.development": ".env.development",
+    ".env.local": ".env.local",
+    ".env.production": ".env.production",
+    ".env.test": ".env.test",
+    ".eslintcache": ".eslintcache",
+    ".eslintrc.cjs": ".eslintrc.cjs",
+    ".eslintrc.js": ".eslintrc.js",
+    ".gitattributes": ".gitattributes",
+    ".gitmodules": ".gitmodules",
+    ".n": ".n",
+    ".npmrc.cjs": ".npmrc.cjs",
+    ".nvmrc": ".nvmrc",
+    ".prettierignore": ".prettierignore",
+    ".prettierrc.cjs": ".prettierrc.cjs",
+    ".stylelintrc": ".stylelintrc",
+    ".tool-versions": ".tool-versions",
+    ".webpack.config.js": ".webpack.config.js",
+    ".yarnrc.yml": ".yarnrc.yml",
+    "Dockerfile": "Dockerfile",
+    "Makefile": "Makefile",
+    "asp": "asp",
+    "bash": "bash",
+    "browserslistrc": "browserslistrc",
+    "c": "c",
+    "cc": "cc",
+    "cfg": "cfg",
+    "cmd": "cmd",
+    "conf": "conf",
+    "config": "config",
+    "cpp": "cpp",
+    "cs": "cs",
+    "css": "css",
+    "csv": "csv",
+    "csx": "csx",
+    "cxx": "cxx",
+    "dart": "dart",
+    "dockerignore": "dockerignore",
+    "dotenv": "dotenv",
+    "ejs": "ejs",
+    "env": "env",
+    "eslintignore": "eslintignore",
+    "fish": "fish",
+    "gem": "gem",
+    "gitignore": "gitignore",
+    "gitkeep": "gitkeep",
+    "go": "go",
+    "graphql": "graphql",
+    "h": "h",
+    "hh": "hh",
+    "hpp": "hpp",
+    "htm": "htm",
+    "html": "html",
+    "hxx": "hxx",
+    "ini": "ini",
+    "ipynb": "ipynb",
+    "java": "java",
+    "js": "js",
+    "jsconfig": "jsconfig",
+    "json": "json",
+    "json5": "json5",
+    "jsonc": "jsonc",
+    "jsp": "jsp",
+    "jsx": "jsx",
+    "kt": "kt",
+    "kts": "kts",
+    "less": "less",
+    "lock": "lock",
+    "log": "log",
+    "m": "m",
+    "markdown": "markdown",
+    "md": "md",
+    "mdx": "mdx",
+    "mm": "mm",
+    "npmignore": "npmignore",
+    "npmrc": "npmrc",
+    "php": "php",
+    "phtml": "phtml",
+    "postcss": "postcss",
+    "prettierrc": "prettierrc",
+    "properties": "properties",
+    "ps1": "ps1",
+    "psd": "psd",
+    "psm1": "psm1",
+    "psql": "psql",
+    "pug": "pug",
+    "py": "py",
+    "r": "r",
+    "rb": "rb",
+    "rs": "rs",
+    "rst": "rst",
+    "sass": "sass",
+    "scss": "scss",
+    "sh": "sh",
+    "sql": "sql",
+    "sqlite": "sqlite",
+    "styl": "styl",
+    "svelte": "svelte",
+    "swift": "swift",
+    "toml": "toml",
+    "ts": "ts",
+    "tsconfig": "tsconfig",
+    "tsv": "tsv",
+    "tsx": "tsx",
+    "txt": "txt",
+    "vue": "vue",
+    "xml": "xml",
+    "yaml": "yaml",
+    "yarn.lock": "yarn.lock",
+    "yml": "yml",
+    "zsh": "zsh"
+  },
+  "folderNames": {
+    ".changeset": ".changeset",
+    ".github": ".github",
+    ".gitlab": ".gitlab",
+    ".husky": ".husky",
+    ".storybook": ".storybook",
+    ".turbo": ".turbo",
+    ".vscode": ".vscode",
+    "api": "api",
+    "apps": "apps",
+    "assets": "assets",
+    "bin": "bin",
+    "build": "build",
+    "cli": "cli",
+    "components": "components",
+    "config": "config",
+    "configurations": "configurations",
+    "constants": "constants",
+    "controllers": "controllers",
+    "core": "core",
+    "database": "database",
+    "dist": "dist",
+    "docs": "docs",
+    "e2e": "e2e",
+    "environments": "environments",
+    "examples": "examples",
+    "fixtures": "fixtures",
+    "functions": "functions",
+    "helpers": "helpers",
+    "hooks": "hooks",
+    "i18n": "i18n",
+    "icons": "icons",
+    "images": "images",
+    "layouts": "layouts",
+    "lib": "lib",
+    "locales": "locales",
+    "middleware": "middleware",
+    "migrations": "migrations",
+    "models": "models",
+    "mutations": "mutations",
+    "node_modules": "node_modules",
+    "packages": "packages",
+    "pages": "pages",
+    "public": "public",
+    "queries": "queries",
+    "resolvers": "resolvers",
+    "schemas": "schemas",
+    "scripts": "scripts",
+    "services": "services",
+    "shared": "shared",
+    "snapshots": "snapshots",
+    "src": "src",
+    "store": "store",
+    "storybook": "storybook",
+    "stubs": "stubs",
+    "styles": "styles",
+    "test": "test",
+    "test-utils": "test-utils",
+    "tests": "tests",
+    "theme": "theme",
+    "tools": "tools",
+    "types": "types",
+    "utils": "utils",
+    "vendor": "vendor"
+  },
+  "folderNamesExpanded": {
+    ".changeset": ".changeset",
+    ".github": ".github",
+    ".gitlab": ".gitlab",
+    ".husky": ".husky",
+    ".storybook": ".storybook",
+    ".turbo": ".turbo",
+    ".vscode": ".vscode",
+    "api": "api",
+    "apps": "apps",
+    "assets": "assets",
+    "bin": "bin",
+    "build": "build",
+    "cli": "cli",
+    "components": "components",
+    "config": "config",
+    "configurations": "configurations",
+    "constants": "constants",
+    "controllers": "controllers",
+    "core": "core",
+    "database": "database",
+    "dist": "dist",
+    "docs": "docs",
+    "e2e": "e2e",
+    "environments": "environments",
+    "examples": "examples",
+    "fixtures": "fixtures",
+    "functions": "functions",
+    "helpers": "helpers",
+    "hooks": "hooks",
+    "i18n": "i18n",
+    "icons": "icons",
+    "images": "images",
+    "layouts": "layouts",
+    "lib": "lib",
+    "locales": "locales",
+    "middleware": "middleware",
+    "migrations": "migrations",
+    "models": "models",
+    "mutations": "mutations",
+    "node_modules": "node_modules",
+    "packages": "packages",
+    "pages": "pages",
+    "public": "public",
+    "queries": "queries",
+    "resolvers": "resolvers",
+    "schemas": "schemas",
+    "scripts": "scripts",
+    "services": "services",
+    "shared": "shared",
+    "snapshots": "snapshots",
+    "src": "src",
+    "store": "store",
+    "storybook": "storybook",
+    "stubs": "stubs",
+    "styles": "styles",
+    "test": "test",
+    "test-utils": "test-utils",
+    "tests": "tests",
+    "theme": "theme",
+    "tools": "tools",
+    "types": "types",
+    "utils": "utils",
+    "vendor": "vendor"
+  }
+}
